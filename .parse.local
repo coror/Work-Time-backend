@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "StudyTime": {
+      "applicationId": "WdrLxJmaU1P1EFk1k288HON0YqeaZTguQ4i6Ormc"
+    },
+    "_default": {
+      "link": "StudyTime"
+    }
+  }
+}
